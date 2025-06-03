@@ -1,13 +1,20 @@
-**Hello! It is me Austin.**
+# Hello! 👋 It’s me, Austin.
 
-I am currently reading *stochastic calculus for finance I* by Steven E. Shreve
+I am currently reading **_Stochastic Calculus for Finance I_** by Steven E. Shreve.
 
-**Goal**
-===============================================================================================================================
+## 📚 Goal
 
-I plan on reading through the first and second textbook (it is free online). 
-Throughout each chapter, I plan on making a model from the information I learn.
-For example, I learned the multiperiod Binomial Model and I made an Options Pricing model from using it. 
-Black-Scholes model will be in future chapters, and I plan on comparing these two models because it'll be interesting to see which is better. American options incorporate many different equations (like binomial model and black-scholes) to find option pricing (excerising early makes it complicated). Anyways... that is the goal and the whole point of this repo!
+I plan to work through both textbooks (freely available online).  
+Throughout each chapter, I’ll build a model based on the concepts I learn.  
 
-**Thank you if you made it this far :)**
+For example:
+- After learning the **Multiperiod Binomial Model**, I created an **Options Pricing Model**.
+- In upcoming chapters, I’ll tackle the **Black-Scholes Model**, and I plan to compare it to the Binomial Model —  
+  it’ll be interesting to see which performs better!
+
+American options are more complex since they combine multiple approaches (like binomial and Black-Scholes)  
+due to the possibility of early exercise. That’s part of what makes this project exciting!  
+
+---
+
+Thank you for checking out this repo. 🙂
