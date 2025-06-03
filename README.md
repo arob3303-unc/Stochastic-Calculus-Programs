@@ -1,19 +1,39 @@
-# Hello! 👋 It’s me, Austin.
+# Stochastic Calculus for Finance — Modeling Project
 
-I am currently reading **_Stochastic Calculus for Finance I_** by Steven E. Shreve.
+Hello! 👋 I’m Austin.
 
-## 📚 Goal
+I’m currently working through *Stochastic Calculus for Finance I & II* by Steven E. Shreve.
 
-I plan to work through both textbooks (freely available online).  
-Throughout each chapter, I’ll build a model based on the concepts I learn.  
+---
 
-For example:
-- After learning the **Multiperiod Binomial Model**, I created an **Options Pricing Model**.
-- In upcoming chapters, I’ll tackle the **Black-Scholes Model**, and I plan to compare it to the Binomial Model —  
-  it’ll be interesting to see which performs better!
+## 📚 About This Repo
 
-American options are more complex since they combine multiple approaches (like binomial and Black-Scholes)  
-due to the possibility of early exercise. That’s part of what makes this project exciting!  
+This repository is my personal learning project as I study stochastic calculus and quantitative finance.  
+For each major topic or model introduced in the textbooks, I build a working Python implementation,  
+documenting both the **theory** and the **practical insights** I gain.
+
+My goals:
+- Reinforce core concepts in stochastic calculus and financial modeling  
+- Compare different pricing methods (e.g., binomial vs. Black-Scholes)  
+- Understand strengths, limitations, and assumptions behind each approach  
+- Create a portfolio of work I can share with potential employers in quant finance or trading
+
+This is a **work in progress** — I will continue updating the repo as I advance through both books.
+
+## 🛣 Roadmap
+
+| 📖 Chapter / Topic                                    | ✅ Status        |
+|------------------------------------------------------|-----------------|
+| Multiperiod Binomial Model                           | ✅ Complete      |
+| Black-Scholes Model (European Options)               | 🔄 In Progress   |
+| Black-Scholes PDE Derivation & Solutions             | 🔜 Upcoming      |
+| Greeks & Sensitivities                               | 🔜 Upcoming      |
+| American Options (Early Exercise, Binomial Approx)   | 🔜 Upcoming      |
+| Exotic Options (Barrier, Asian, Lookback)            | 🔜 Planned       |
+| Jump Diffusion Models (Merton)                      | 🔜 Planned       |
+| Stochastic Volatility Models (Heston)                | 🔜 Planned       |
+| Monte Carlo Simulations for Option Pricing          | 🔜 Planned       |
+| Interest Rate Models (Vasicek, CIR)                 | 🔜 Planned       |
 
 ---
 
