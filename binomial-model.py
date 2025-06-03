@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Goal -> Create a multiperiod binomial pricing model to calculate an Options price from a strike price (k).
 # Most likely use the European Options market. No early exercising.
-# Referencing Stochastic Calculus for Finance book from Shreeve.
+# Referencing Stochastic Calculus for Finance I book from Shreeve.
 
 def option_price(stockPrice, strikePrice, time, rate, upFactor, downFactor, optionType='call'):
     # Assume a no-arbitrage condition.

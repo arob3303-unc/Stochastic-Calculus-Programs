@@ -1,6 +1,6 @@
 **Hello! It is me Austin.**
 
-I am currently reading *stochastic calculus in finance I* by Steven E. Shreve
+I am currently reading *stochastic calculus for finance I* by Steven E. Shreve
 
 **Goal**
 ===============================================================================================================================
