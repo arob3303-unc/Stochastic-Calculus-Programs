@@ -1,7 +1,9 @@
 **Hello! It is me Austin.**
 
-I am currently reading *stochastic calculus in finance* by Steven E. Shreve
-- **Goal**
+I am currently reading *stochastic calculus in finance I* by Steven E. Shreve
+
+**Goal**
+===============================================================================================================================
 
 I plan on reading through the first and second textbook (it is free online). 
 Throughout each chapter, I plan on making a model from the information I learn.
